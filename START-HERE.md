@@ -19,7 +19,7 @@ For the first few weeks, the goal is breadth with enough depth to recognize:
 - recurring limitations, disagreements, and open problems;
 - topics that sustain your personal curiosity.
 
-The initial pool is intentionally empty. We will choose it next rather than hard-code a reading list before agreeing on scope.
+The initial pool now contains a curated 20-paper core, a broad category map, and a larger second-tier pool. Start at `01-reading-pools/initial-must-read/README.md` and use the extended list only to follow questions that emerge from the core.
 
 ## A practical reading cadence
 
@@ -51,4 +51,3 @@ A paper is not fully processed until:
 - limitations or uncertainties are recorded;
 - it is linked to at least one topic, idea, or landscape theme;
 - the pool entry has been updated to `synthesized`.
-

@@ -15,6 +15,7 @@ _To be developed from the literature._
 | Tool use and action |  |  |  |  |  |
 | Memory and learning |  |  |  |  |  |
 | Multi-agent systems |  |  |  |  |  |
+| Embodied and multimodal agents |  |  |  |  |  |
 | Human-agent interaction |  |  |  |  |  |
 | Evaluation and benchmarks |  |  |  |  |  |
 | Reliability and safety |  |  |  |  |  |
@@ -38,4 +39,3 @@ _To be developed from the literature._
 ## Gaps and unresolved questions
 
 - 
-
