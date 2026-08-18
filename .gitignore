@@ -1,0 +1,23 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local scratch and generated files
+.tmp/
+tmp/
+*.log
+
+# Large paper files are kept outside Git by default.
+# Store stable links and notes in the repository instead.
+*.pdf
+
+# Python, if lightweight analysis is added later
+__pycache__/
+*.py[cod]
+.venv/
+
