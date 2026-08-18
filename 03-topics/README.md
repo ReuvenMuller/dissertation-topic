@@ -12,3 +12,11 @@ Each topic folder should eventually contain:
 
 Its paper queue belongs in `01-reading-pools/topics/<topic-name>.md`.
 
+## Current interests
+
+The initial interests are organized in [interest-map.md](interest-map.md). Two topic areas are now active:
+
+- [Agent harness engineering](agent-harness-engineering/README.md) — the runtime system around an AI agent: context, tools, memory, permissions, orchestration, observability, evaluation, and recovery.
+- [Enterprise agent workflows](enterprise-agent-workflows/README.md) — how agents participate in real organizational processes that span people, software, policies, and changing state.
+
+The most promising intersection is **reliable, auditable harnesses for industry workflows**. This is a provisional research seam, not yet a selected dissertation topic.
