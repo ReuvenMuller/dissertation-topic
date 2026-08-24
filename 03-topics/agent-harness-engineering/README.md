@@ -83,6 +83,7 @@ These are starting hypotheses to challenge through reading, not conclusions.
 ## Evidence base
 
 - Topic paper pool: [agent-harness-engineering.md](../../01-reading-pools/topics/agent-harness-engineering.md)
+- Industry evidence: [agent harnesses and heterogeneous model systems](../../01-reading-pools/industry-reports/README.md)
 - Broader map: [interest-map.md](../interest-map.md)
 - Most relevant initial categories: tool use, memory, evaluation, safety, and human-agent systems.
 

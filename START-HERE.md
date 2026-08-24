@@ -21,6 +21,8 @@ For the first few weeks, the goal is breadth with enough depth to recognize:
 
 The initial pool now contains a curated 20-paper core, a broad category map, and a larger second-tier pool. Start at `01-reading-pools/initial-must-read/README.md` and use the extended list only to follow questions that emerge from the core.
 
+For the heterogeneous-agent idea, industry evidence is tracked separately at `01-reading-pools/industry-reports/README.md`. Use it to identify production patterns and replication targets, but do not count reports or vendor benchmarks as peer-reviewed papers.
+
 ## A practical reading cadence
 
 - **Quick scan (10–20 minutes):** decide whether a paper is relevant and why.

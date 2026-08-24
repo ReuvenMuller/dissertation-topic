@@ -6,6 +6,8 @@ Related idea: [heterogeneous-agent-harnesses.md](../../../04-ideas/heterogeneous
 
 Parent topic: [agent harness engineering](../../../03-topics/agent-harness-engineering/README.md)
 
+Industry companion: [agent harnesses and heterogeneous model systems](../../industry-reports/README.md)
+
 ## Working question
 
 > Given a task and a pool of models with different capabilities and costs, which role assignment and orchestration policy produces the best quality–cost–latency–reliability frontier?
