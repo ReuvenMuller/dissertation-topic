@@ -13,3 +13,6 @@ Useful raw material includes:
 - a surprising connection between subfields;
 - a problem you would still care about after the novelty fades.
 
+## Active idea branches
+
+- [Cost-aware heterogeneous agent harnesses](heterogeneous-agent-harnesses.md) — role-aware allocation of differently capable and priced models within a shared agent workflow.

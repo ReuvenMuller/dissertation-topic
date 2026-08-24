@@ -76,6 +76,10 @@ These are starting hypotheses to challenge through reading, not conclusions.
 - Human-agent oversight
 - Adaptive memory and recovery
 
+## Active idea branches
+
+- [Cost-aware heterogeneous agent harnesses](../../04-ideas/heterogeneous-agent-harnesses.md) — allocating different model capabilities to architecture, planning, execution, verification, and escalation roles.
+
 ## Evidence base
 
 - Topic paper pool: [agent-harness-engineering.md](../../01-reading-pools/topics/agent-harness-engineering.md)
@@ -91,3 +95,4 @@ Read the harness framing paper alongside ReAct, WorfBench, Agent Lightning, Agen
 | Date | Decision | Reason |
 |---|---|---|
 | 2026-08-18 | Open as an active interest | Strong personal pull and a plausible systems contribution; terminology and boundaries still need validation |
+| 2026-08-23 | Open heterogeneous model orchestration as a separate idea branch | Direct fit with harness engineering, but closest 2025–2026 work must be understood before claiming novelty |
