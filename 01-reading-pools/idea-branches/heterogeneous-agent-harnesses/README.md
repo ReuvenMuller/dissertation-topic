@@ -12,7 +12,7 @@ Industry companion: [agent harnesses and heterogeneous model systems](../../indu
 
 > Given a task and a pool of models with different capabilities and costs, which role assignment and orchestration policy produces the best quality–cost–latency–reliability frontier?
 
-The motivating architecture is a frontier architect or planner, a mid-tier decomposer, and a low-cost executor, with optional verification and escalation. The literature shows that this exact family of systems now exists, but does not yet offer a settled answer about when it is beneficial.
+A motivating configuration is a frontier architect or planner, a mid-tier instruction writer that decomposes the plan into detailed directions, and a low-cost executor that follows those directions. It is not a fixed architecture: roles may be added, removed, combined, repeated, or reordered, and an optional reviewer may use a low-, mid-, or frontier-tier model. The literature shows that this general family of systems now exists, but does not yet offer a settled answer about which configuration is beneficial, how instruction quality affects downstream execution, or which reviewer tier creates net value.
 
 ## State-of-the-art in one paragraph
 

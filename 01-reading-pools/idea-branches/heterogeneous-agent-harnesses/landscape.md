@@ -92,9 +92,9 @@ Predict when a single agent, homogeneous team, fixed heterogeneous hierarchy, or
 
 Allocate capability during the workflow rather than fixing a frontier planner and cheap executor in advance. Escalation could respond to uncertainty, plan quality, failed verification, environmental novelty, or action risk.
 
-### Gap C: handoff fidelity and failure propagation
+### Gap C: architecture, review, handoff fidelity, and failure propagation
 
-Measure what information is lost between architect, decomposer, executor, and verifier; determine when a more expensive upstream model helps or merely creates an authoritative bad plan.
+Treat the workflow structure as an experimental variable rather than assuming a fixed hierarchy. Measure what information is lost when an architect's high-level plan is translated by a mid-tier model into detailed instructions for a low-tier executor. Vary whether roles are present, combined, repeated, or reordered, and assign the reviewer role to low-, mid-, and frontier-tier models. Determine whether instruction specificity and fidelity improve execution, whether review corrects more errors than it introduces, and when a more expensive upstream model merely creates an authoritative bad plan.
 
 ### Gap D: realistic total-cost frontiers
 
@@ -114,8 +114,9 @@ This is stronger than assuming a capability hierarchy. It allows the experiment 
 
 | Dimension | Minimum levels |
 |---|---|
-| Team architecture | Single agent; plan–execute; plan–execute–verify; architect–decompose–execute |
-| Role assignment | All strong; all cheap; strong→cheap; cheap→strong; mixed mid-tier; adaptive; oracle |
+| Team architecture | Single agent; plan–execute; plan–execute–review; architect–instruction writer–executor; role-combined and role-ablated variants |
+| Role assignment | All frontier; all mid-tier; all low-cost; frontier→mid→low; alternative and reversed assignments; adaptive; oracle |
+| Review | No reviewer; reviewer before execution; reviewer after execution; low-, mid-, and frontier-tier reviewer |
 | Task type | Static reasoning; decomposable parallel work; sequential tool work; policy-constrained workflow |
 | Budget control | Equal dollar budget and equal inference-compute sensitivity analysis |
 | Outcome | Success, partial progress, reliability across repeats, policy compliance |

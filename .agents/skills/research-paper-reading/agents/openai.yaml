@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Paper Reading"
+  short_description: "Discuss papers, then record structured research notes"
+  default_prompt: "Use $research-paper-reading to help me understand this paper interactively, then record it when I say I am ready."

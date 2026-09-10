@@ -15,4 +15,5 @@ Useful raw material includes:
 
 ## Active idea branches
 
+- [Organizational and procedural design for AI agent teams](agent-organization-and-procedures.md) — exploratory study of organization, work procedures, information distribution, and interaction-driven synergy; includes a ten-paper decision sequence.
 - [Cost-aware heterogeneous agent harnesses](heterogeneous-agent-harnesses.md) — role-aware allocation of differently capable and priced models within a shared agent workflow.
